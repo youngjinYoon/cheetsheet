@@ -18,6 +18,6 @@ apt-get update && apt-get install -y \
 
 
 How to get Mac address:
-run "idconfg" copy mac address from eht0:HWaddr, it is form of 00:00:00:00
+run "ifconfg" copy mac address from eht0:HWaddr, it is form of 00:00:00:00
 
 From https://hub.docker.com/r/ninjaben/matlab-support/~/dockerfile/
